@@ -10,7 +10,6 @@
 - 📓 Bachelor's degree in systems analysis and development.
 - 💻📱🖥️ Software developer.
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Biel-LSR&label=Profile%20views&color=0e75b6&style=flat"" /> </p>
 
 
 
