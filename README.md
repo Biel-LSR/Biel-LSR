@@ -5,10 +5,10 @@
 
 
   
-- 🥰 I love to study and learn new things, especially in programming.
+- 🖥️ I love to study and learn new things, especially in programming.
 - 👀 I'm very curious.
 - 📓 Bachelor's degree in systems analysis and development.
-- 💻📱🖥️ Software developer.
+- 💻 Software developer.
 
 
 
