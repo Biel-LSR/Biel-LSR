@@ -27,7 +27,6 @@
 
  ##  My GitHub Stats 
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biel-LSR&layout=compact&theme=dark)
   
  
   <br> <br>
