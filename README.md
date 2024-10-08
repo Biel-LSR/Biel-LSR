@@ -26,7 +26,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
  ##  My GitHub Stats 
- <br> <br>
+ 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biel-LSR&layout=compact&theme=dark)
   
  
