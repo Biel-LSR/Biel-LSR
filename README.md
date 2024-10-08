@@ -29,10 +29,6 @@
  
   
  
-  <br> <br>
-  <img src="https://streak-stats.demolab.com?    user=Biel-LSR&theme=light&hide_border=true&border_radius=0&ring=DA70D6&background=0000&fire=D8BFD8&currStreakNum=D8BFD8&dates=FF69B4&sideNums=DA70D6&currStreakLabel=8B008B&stroke=8B008B&sideLabels=8B008B" height="150" alt="streaks graph"  />
-  <img src="https://github-readme-stats-i66v.vercel.app/api?username=Biel-LSR&show_icons=true&title_color=FF69B4&text_color=DA70D6&iconcolor=FFF&hide_border=true&bg_color=0000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
-</div> <br>
 
 ## 
 
