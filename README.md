@@ -36,5 +36,7 @@
 
 ## 
 
-  
+  <p align="center">
+     <img src="https://wallpaperaccess.com/full/719863.jpg" width:'10%' />
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer" width:'10%' />
  
