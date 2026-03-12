@@ -27,7 +27,7 @@
 
 
 ##  Profile views:
-![Profile views counter](https://komarev.com/ghpvc/?username=AmandaDev25&color=FF00FF)    
+![Profile views counter](https://komarev.com/ghpvc/?username=Biel-LSR&color=FF00FF)    
 
 
  
