@@ -36,5 +36,5 @@
 ## 
 
   <p align="center">
-     <img src="https://github.com/Biel-LSR/Biel-LSR/issues/1#issue-4108036265"/>
+     <img src="https://github.com/Biel-LSR/Biel-LSR/issues/1#issue-4108036265" width="100%"/>
  
