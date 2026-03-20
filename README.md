@@ -36,5 +36,5 @@
 ## 
 
   <p align="center">
-     <img src="https://www.google.com/imgres?q=estilo%20anime%20imagens%20gratuitas%20animes&imgurl=https%3A%2F%2Fstatic.vecteezy.com%2Fti%2Ffotos-gratis%2Ft2%2F22776806-a-panorama-do-a-cidade-as-noite-tempo-paisagem-urbana-com-casas-e-edificios-e-a-lindo-noite-ceu-video-jogos-conceito-arte-com-anime-estilo-livre-ilustracao-imagem-de-ai-gerado-gratis-foto.jpg&imgrefurl=https%3A%2F%2Fpt.vecteezy.com%2Ffotos-gratis%2Fanimes&docid=IrLU_SKZc5amQM&tbnid=m9rddpYAnZdMOM&vet=12ahUKEwiO3-jrxa6TAxUbpZUCHSzjGpIQnPAOegQIHBAB..i&w=357&h=200&hcb=2&ved=2ahUKEwiO3-jrxa6TAxUbpZUCHSzjGpIQnPAOegQIHBAB" />
+     <img src="https://pt.vecteezy.com/foto/56776221-a-anime-panorama-com-vento-turbinas-e-nuvens">
  
