@@ -36,5 +36,5 @@
 ## 
 
   <p align="center">
-     ![Image](https://github.com/user-attachments/assets/cb45b8ff-d941-440c-9421-e9156b05a468)
+     <img src="github.com/user-attachments/assets/cb45b8ff-d941-440c-9421-e9156b05a468">
  
