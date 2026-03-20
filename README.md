@@ -37,5 +37,4 @@
 
   <p align="center">
      <img src="https://pt.vecteezy.com/foto/22776818-a-panorama-do-a-cidade-as-noite-tempo-paisagem-urbana-com-casas-e-edificios-e-a-lindo-noite-ceu-video-jogos-conceito-arte-com-anime-estilo-livre-ilustracao-imagem-de-ai-gerado" />
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=1883FF&height=100&section=footer" width:'10%' />
  
