@@ -36,5 +36,5 @@
 ## 
 
   <p align="center">
-     <img src="https://pt.vecteezy.com/foto/56776221-a-anime-panorama-com-vento-turbinas-e-nuvens">
+     ![Image](https://github.com/user-attachments/assets/cb45b8ff-d941-440c-9421-e9156b05a468)
  
