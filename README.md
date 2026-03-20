@@ -1,6 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FDED00&width=435&lines=+Hi+👋🏽,+My+name+is+Gabriel+Luiz)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1883FF&width=435&lines=I'm+a+Front-End+developer+👩🏽‍💻)
+### Link do portfólio online: https://biel-lsr.github.io/profile/
 
 
   
