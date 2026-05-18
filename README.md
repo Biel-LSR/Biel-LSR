@@ -20,6 +20,10 @@
 ##  Profile views:
 ![Profile views counter](https://komarev.com/ghpvc/?username=Biel-LSR&color=FF00FF)    
 
+<br>
+<br>
+
+https://github.com/Biel-LSR/Biel-LSR/issues/2#issue-4473345041
 
  
   
