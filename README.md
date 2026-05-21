@@ -1,8 +1,8 @@
 <p text-align="center">
-###         Portfólio: https://biel-lsr.github.io/profile/
+         Portfólio: https://biel-lsr.github.io/profile/
 
 
-<p text-align="center">  
+ 
 - 🖥️ I love to study and learn new things, especially in programming.
 - 📓 Bachelor's degree in systems analysis and development.
 - 💻 Software developer.
